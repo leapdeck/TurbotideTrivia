@@ -1,8 +1,8 @@
 # 🚤 TurbotideTrivia
 
-Load up speedboat trivia throttle! This is your go-to game for fast-paced fun covering all things speedboats—models, engines, legendary events, and engineering wonders. Learn, play, and ride the wave of excitement! 🌊
+Load up speedboat trivia and throttle! This is your go-to game covering all things speedboats—models, engines, legendary events, and engineering wonders. 🌊
 
-Dive into a sea of trivia—from full-throttle designs and electric speedboats to racetracks, propellers, and podium glory. Whether you're into horsepower stats or sleek hull builds, every question delivers a splash of seaside learning. 🛥️💡
+Dive into a sea of trivia—from full-throttle designs and electric speedboats to racetracks, propellers, and podium glory. Whether you're into horsepower stats or sleek hull builds, you'll learn across a range of sea-side facts 🛥️💡
 
 ## 🚀 Key Features
 
@@ -13,15 +13,12 @@ Race through questions about speedboat history, models, engineering details, and
 Answer trivia covering engine types, propeller design, famous races, and speedboat evolution.
 
 🔄 **Replay and Improve**  
-Play multiple rounds and master every wave of trivia—build your score and your knowledge.
-
-🌟 **Learn as You Play**  
-Each question is a high-octane fact waiting to be discovered. Get smarter with every splash!
+Play multiple rounds and master every topic of trivia—build your score and your knowledge.
 
 ## 📱 Download for iOS
 
 Download on the App Store  
-[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/speedboat-trivia/id0000000000)
+[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/turbotide-trivia/id6744722795))
 
 ## 📝 License
 
