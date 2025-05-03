@@ -22,7 +22,7 @@ Download on the App Store
 
 ## 📝 License
 
-SpeedboatTrivia is under the MIT license. See the accompanying [LICENSE](LICENSE) for more details.
+TurbotideTrivia is under the MIT license. See the accompanying [LICENSE](LICENSE) for more details.
 
 ## 🤝 Contributing
 
