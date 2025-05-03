@@ -26,8 +26,8 @@ SpeedboatTrivia is under the MIT license. See the accompanying [LICENSE](LICENSE
 
 ## 🤝 Contributing
 
-We welcome 🧑🏾‍💻🧑🏼‍💻 boaters and builders alike! Have ideas or fixes? Open an issue or submit a pull request.
+We welcome 👩🏾‍💻👨🏾‍💻 additions! If you’d like to help improve or expand this project, feel free to open an issue or submit a pull request.
 
 ## 📬 Contact
 
-Questions, feedback, or partnership ideas? Drop us a message—we're always on deck to help!
+For feedback, questions, or collaboration opportunities, feel free to message for assistance.
