@@ -18,7 +18,7 @@ Play multiple rounds and master every topic of trivia—build your score and you
 ## 📱 Download for iOS
 
 Download on the App Store  
-[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/turbotide-trivia/id6744722795))
+[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/turbotide-trivia/id6744722795)
 
 ## 📝 License
 
