@@ -5,7 +5,7 @@ Load up speedboat trivia and throttle! This is your go-to game covering all thin
 Dive into a sea of trivia—from full-throttle designs and electric speedboats to racetracks, propellers, and podium glory. Whether you're into horsepower stats or sleek hull builds, you'll learn across a range of sea-side facts 🛥️💡
 
 <p align="center">
-  <img alt="TurbotideTrivia" title="TurbotideTrivia" src="screenshots/Turbotide1.gif" width=300>
+  <img alt="TurbotideTrivia" title="TurbotideTrivia" src="screenshots/TurbotideScroll1.gif" width=300>
 </p>
 
 ## 🚀 Key Features
