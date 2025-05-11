@@ -1,6 +1,6 @@
 # 🚤 TurbotideTrivia
 
-Load up speedboat trivia and throttle! This is your go-to game covering all things speedboats—models, engines, legendary events, and engineering wonders. 🌊
+Load up speedboat trivia and throttle! This is your go-to game covering all things electric speedboats, engines, legendary events, and engineering wonders. 🌊
 
 Dive into a sea of trivia—from full-throttle designs and electric speedboats to racetracks, propellers, and podium glory. Whether you're into horsepower stats or sleek hull builds, you'll learn across a range of sea-side facts 🛥️💡
 
