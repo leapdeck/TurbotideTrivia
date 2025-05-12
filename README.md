@@ -28,6 +28,12 @@ Download on the App Store
 
 TurbotideTrivia is under the MIT license. See the accompanying [LICENSE](LICENSE) for more details.
 
+##  🔧 Build
+
+Can build the app with a Windows station and Android Studio. 
+Then Android Studio can provide you an “.apk” file to side-load to your Android phone.
+When you’ve forked the repo to make your own app, you can do a yearly subscription as an Android Developer to publish to their Appstore. 
+
 Also can build the app with a Mac station, Xcode, Android Studio and a free developer account : [Create a Free Apple Developer account](https://www.appypie.com/blog/how-to-create-a-free-apple-developer-account)
 
 Then Xcode will let you side-load to your iPhone. When you’ve forked the repo to make your own app, you can do a yearly subscription as an Apple Developer to publish to the Appstore. 
